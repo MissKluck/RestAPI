@@ -1,5 +1,13 @@
 public class TVShows
 {
+    /// <summary>
+    /// Our TVShow endpoint model. It contains the following fields
+    /// int Id
+    /// string Title
+    /// string Creators
+    /// int ReleaseYear
+    /// int NumberOfSeasons
+    /// </summary>/
     public required int Id { get; set; }
     public required string Title { get; set; }
     public required string Creators { get; set; }

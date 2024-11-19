@@ -1,0 +1,14 @@
+/Users/Sigrid/Documents/C#/RestAPI/bin/Debug/net9.0/RestAPI
+/Users/Sigrid/Documents/C#/RestAPI/bin/Debug/net9.0/RestAPI.deps.json
+/Users/Sigrid/Documents/C#/RestAPI/bin/Debug/net9.0/RestAPI.runtimeconfig.json
+/Users/Sigrid/Documents/C#/RestAPI/bin/Debug/net9.0/RestAPI.dll
+/Users/Sigrid/Documents/C#/RestAPI/bin/Debug/net9.0/RestAPI.pdb
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/RestAPI.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/RestAPI.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/RestAPI.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/RestAPI.dll
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/refint/RestAPI.dll
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/RestAPI.pdb
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/RestAPI.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/RestAPI/obj/Debug/net9.0/ref/RestAPI.dll
